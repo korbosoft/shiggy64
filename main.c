@@ -5,8 +5,6 @@
 #include "data/shiggy.h"
 
 #define SPRITE_LOCATION 0x3EC0
-#define SPRITE_1_X
-#define SPRITE_2_X
 
 int x = 0, y = 0;
 
